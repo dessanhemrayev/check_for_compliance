@@ -8,3 +8,13 @@ C:\Users\dessa\OneDrive\Рабочий стол\скрин\MIsha_test\MIsha_test
 C:\Users\dessa\OneDrive\Рабочий стол\скрин\MIsha_test\MIsha_test\obj\Debug\MIsha_test.csproj.CoreCompileInputs.cache
 C:\Users\dessa\OneDrive\Рабочий стол\скрин\MIsha_test\MIsha_test\obj\Debug\MIsha_test.exe
 C:\Users\dessa\OneDrive\Рабочий стол\скрин\MIsha_test\MIsha_test\obj\Debug\MIsha_test.pdb
+C:\Users\dessa\OneDrive\Рабочий стол\test\MIsha_test\MIsha_test\bin\Debug\MIsha_test.exe.config
+C:\Users\dessa\OneDrive\Рабочий стол\test\MIsha_test\MIsha_test\bin\Debug\MIsha_test.exe
+C:\Users\dessa\OneDrive\Рабочий стол\test\MIsha_test\MIsha_test\bin\Debug\MIsha_test.pdb
+C:\Users\dessa\OneDrive\Рабочий стол\test\MIsha_test\MIsha_test\obj\Debug\MIsha_test.csprojAssemblyReference.cache
+C:\Users\dessa\OneDrive\Рабочий стол\test\MIsha_test\MIsha_test\obj\Debug\MIsha_test.Form1.resources
+C:\Users\dessa\OneDrive\Рабочий стол\test\MIsha_test\MIsha_test\obj\Debug\MIsha_test.Properties.Resources.resources
+C:\Users\dessa\OneDrive\Рабочий стол\test\MIsha_test\MIsha_test\obj\Debug\MIsha_test.csproj.GenerateResource.cache
+C:\Users\dessa\OneDrive\Рабочий стол\test\MIsha_test\MIsha_test\obj\Debug\MIsha_test.csproj.CoreCompileInputs.cache
+C:\Users\dessa\OneDrive\Рабочий стол\test\MIsha_test\MIsha_test\obj\Debug\MIsha_test.exe
+C:\Users\dessa\OneDrive\Рабочий стол\test\MIsha_test\MIsha_test\obj\Debug\MIsha_test.pdb
